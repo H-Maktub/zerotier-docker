@@ -10,7 +10,7 @@ permissions:
   packages: write
 
 env:
-  IMAGE_NAME: warp
+  IMAGE_NAME: zerotier
   DEFAULT_BRANCH: main
 
 jobs:
